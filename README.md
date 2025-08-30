@@ -126,4 +126,4 @@ This project focuses on predicting house prices based on various features such a
 
 This project demonstrates the effectiveness of machine learning models—particularly XGBoost—in accurately predicting house prices. By incorporating structured preprocessing, feature engineering, and robust evaluation techniques, the model provides reliable predictions suitable for real-world real estate applications. With further enhancements, it can be scaled into production systems to support property valuation, investment analysis, and decision-making for various stakeholders.
 
-# RiceLeaf-disease-detection
+
